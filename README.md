@@ -25,7 +25,7 @@ serve(dir="build")
 
 ## Contributing
 
-We appreciate contributions from users/members of the BioJulia commmunity
+We appreciate contributions from users/members of the BioJulia community
 including reporting bugs/typos, fixing issues, and adding new sections.
 This is a fantastic opportunity to polish one's technical writing skills as well as show off one's skill with BioJulia packages ;)
 
